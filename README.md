@@ -1,3 +1,4 @@
-# New PRoject
+# New Project
 
-This was a project from local system.
+This project was created from local system.
+Created by Nisarg Doshi
